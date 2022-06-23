@@ -8,4 +8,10 @@ C
 C#
 Python
 
+Adding scripting languages
+Shell
+Power
+Bash
+
+Done with scriptings
 
